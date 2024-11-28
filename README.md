@@ -20,7 +20,7 @@ I'm a software engineer, currently in my second year of the [OSSU](https://githu
 - 🌱 I’m learning linear algebra, math for CS, calculus (Calc 1B), and the "Structure and Interpretation of Computer Programs" course.
 - 👯 I’m open to collaborating on software engineering and open-source projects.
 - 💬 Ask me about functional programming!
-- 📫 How to reach me: [LinkedIn me](https://www.linkedin.com/in/androranogajec/) or [email me](mailto:ranogaet@gmail.com).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/androranogajec/) or [email](mailto:ranogaet@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love cats, video games, coffee, chocolate, and being around positive and motivated people!
 
