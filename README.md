@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋  
 
-I'm a software engineer, with 3 years of experience in total, which includes academic projects, personal initiatives, competitive programming, and 1.5 years of professional experience in frontend developement. At the moment I am in my second year of the [Open Source Society University](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) self-paced computer science curriculum. I’m passionate about competitive programming and software development in general. I enjoy solving problems, especially those from semi-unfamiliar domains. Tackling such problems not only sharpens my problem-solving skills but also broadens my perspective and strengthens my ability to adapt and learn quickly.
+I'm a software engineer, with three years of experience in total, which includes academic projects, personal initiatives, competitive programming, and one and a half years of professional experience in frontend developement. At current time I am in my second year of the [Open Source Society University](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) self-paced computer science curriculum. I enjoy competitive programming, a priory low level programming in c, c++, maybe bash, game development, web programming in java and javascript on either client or server side.
 
 - 🔭 Right now I’m getting ready for project 1 in my Data Structures class, I expect it to be hard!
 - 🌱 I’m learning six courses concurrently at OSSU, Linear Algebra, Math For CS, Calculus 1b, Data Structures with Jonathan Shewchuk 2014 archived version, Fundamentals of Physics-1, English Composition-1
