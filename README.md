@@ -2,7 +2,7 @@
 **edcedcedcedc/edcedcedcedc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/androranogajec/) or [email](mailto:ranogaet@gmail.com).
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -26,7 +26,6 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 - 🌱 I’m learning six courses concurrently at OSSU, Linear Algebra, Math For CS, Calculus 1b, Data Structures with Jonathan Shewchuk 2014 archived version, Fundamentals of Physics-1, English Composition-1
 - 👯 I’m open to collaborating on software engineering and open-source projects.
 - 💬 Ask me about functional programming!
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/androranogajec/) or [email](mailto:ranogaet@gmail.com).
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love cats, pushing weights, video games, coffee, chocolate, and being around positive and motivated people!
 
