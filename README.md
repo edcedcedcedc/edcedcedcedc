@@ -36,4 +36,6 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 
   ![spinningcube](spinningcube.gif)<br>
 
+  A lightweight Python-based TCP/IP console application enabling client-server communication with support for sending, blocking, and broadcasting messages. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
+  ![spinningcube](spinningcube.gif)<br>
 
