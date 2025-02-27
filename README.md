@@ -39,5 +39,5 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 
   A TCP/IP console application in Python, enabling client-server communication. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2)<br>
   
-  ![tcp](tcp.gif)<br>
+  ![tcp]()<br>
 
