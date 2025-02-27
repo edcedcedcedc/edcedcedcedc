@@ -36,6 +36,6 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 
   ![spinningcube](spinningcube.gif)<br>
 
-  A TCP/IP console application in Python, enabling client-server communication with support for sending, blocking, and broadcasting messages. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2)
+  A TCP/IP console application in Python, enabling client-server communication. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2)<br>
   ![tcp](tcp.gif)<br>
 
