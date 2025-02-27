@@ -30,7 +30,9 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 - ⚡ Fun facts: I love cats, pushing weights, video games, coffee, chocolate, and being around positive and motivated people!
 
   This is probably my favourite cat picture on the internet<br>
-  ![image](https://github.com/user-attachments/assets/3446d4e4-e897-463f-99d7-b3dd3615035c)
-
+  ![image](https://github.com/user-attachments/assets/3446d4e4-e897-463f-99d7-b3dd3615035c)<br>
+  # Here are some of my academic and personal projects
+  This is a spinning cube which I made using C++ and SDL3
+  ![spinningcube](spinningcube.gif)<br>
 
 
