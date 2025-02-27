@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 I'm a software engineer, with three years of experience in total, which includes academic projects, personal initiatives, competitive programming, and one and a half years of professional experience in frontend developement. At current time I am in my second-year of the [Open Source Society University](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) Computer Science Curriculum. I enjoy competitive programming, a priory low level programming in c, c++, maybe bash, game development, web programming in java and javascript on either client or server side.
 
-Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mean that the course is either done or in progress
+Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
 ![Screenshot 2025-02-17 234212](https://github.com/user-attachments/assets/3aad394c-68be-4362-8465-159d807ac710)
 
@@ -30,7 +30,7 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 - 😄 Pronouns: He/Him
 - ⚡ Fun facts: I love cats, pushing weights, video games, coffee, chocolate, and being around positive and motivated people!
 
-  This is probably my favourite cat picture on the internet<br>
+  This is probably my favourite cat picture on the internet!<br>
   ![image](https://github.com/user-attachments/assets/3446d4e4-e897-463f-99d7-b3dd3615035c)<br>
   # A selection of my academic and personal projects
   A 3D cube written in C++ and SDL3, projected into 2D and rotated using transformation matrices. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
