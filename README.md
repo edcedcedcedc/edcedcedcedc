@@ -32,7 +32,8 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
   This is probably my favourite cat picture on the internet<br>
   ![image](https://github.com/user-attachments/assets/3446d4e4-e897-463f-99d7-b3dd3615035c)<br>
   # A selection of my academic and personal projects
-  This is a spinning cube which I made using C++ and SDL3
+  A 3D cube written in C++ and SDL3, projected into 2D and rotated using transformation matrices. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
+
   ![spinningcube](spinningcube.gif)<br>
 
 
