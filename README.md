@@ -24,7 +24,7 @@ Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mea
 
 
 - 🔭 Right now I’m getting ready for project 1 in my Data Structures class, I expect it to be hard!
-- 🌱 I’m learning six courses concurrently at OSSU, Linear Algebra, Math For CS, Calculus 1b, Data Structures with Jonathan Shewchuk 2014 archived version, Fundamentals of Physics-1, English Composition-1
+- 🌱 I’m learning six courses concurrently at OSSU, Math For CS, Calculus 1b, Data Structures with Jonathan Shewchuk 2014 archived version, Fundamentals of Physics-1, Introduction to Probability
 - 👯 I’m open to collaborating on software engineering and open-source projects.
 - 💬 Ask me about functional programming!
 - 😄 Pronouns: He/Him
