@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## Hi there 👋  
 
-I'm a software engineer, with three years of experience in total, which includes academic projects, personal initiatives, competitive programming, and one and a half years of professional experience in frontend developement. At current time I am in my second-year of the [Open Source Society University](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) Computer Science Curriculum. I enjoy competitive programming using Python, low level programming in C, C++, a bit of Bash, game development, web programming in Java and Javascript on either client or server side.
+I'm a software engineer, with three years of experience in total, which includes academic projects, personal initiatives, and one and a half years of professional experience in frontend developement. At current time I am in my second-year of the [Open Source Society University](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) Computer Science Curriculum. I enjoy competitive programming using Python, low level programming in C, C++, a bit of Bash, game development, web programming in Java and Javascript on either client or server side.
 
 Directed Acyclic Graph of my CompSci curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
