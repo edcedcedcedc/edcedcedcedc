@@ -19,7 +19,7 @@ I'm a software engineer, with three years of experience, which includes academic
 
 Directed acyclic graph of my computer science curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
-![Screenshot 2025-02-17 234212](https://github.com/user-attachments/assets/3aad394c-68be-4362-8465-159d807ac710)
+![Screenshot 2025-02-17 234212](Screenshot 2025-02-17 234212.png)
 
 
 
