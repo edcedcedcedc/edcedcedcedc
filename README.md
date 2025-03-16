@@ -31,7 +31,7 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
 - ⚡ Fun facts: I love cats, pushing weights, video games, coffee, chocolate, and being around positive and motivated people!
 
   This is probably my favourite cat picture on the internet!<br>
-  ![image](Screenshot.png)<br>
+  ![image]()<br>
   ## A selection of my academic and personal projects
   A 3D object(cube) written in C++ and SDL3, projected into 2D and rotated using transformation matrices. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
 
