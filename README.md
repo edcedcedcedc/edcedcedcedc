@@ -23,8 +23,8 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
 
 
 
-- 🔭 Right now I am writing Project 1 for Data Structures class on image blurring and edge detection, and mostly try to advance to pupil at Codeforces using Python.
-- 🌱 I’m learning five courses concurrently at Open Source Society University, Math For CS, Calculus 1b, Data Structures, Fundamentals of Physics I, Introduction to Probability
+- 🔭 Right now I am mainly getting ready for GSOC-2025, trying to advance to pupil @codeforces, and studying at ossu.
+- 🌱 I’m learning four courses concurrently at Open Source Society University, Math For CS, Data Structures, Fundamentals of Physics I, Introduction to Probability
 - 👯 I’m open to collaborating on open-source projects.
 - 💬 Ask me about math, cs, functional programming, object-oriented programming, client-server programming. 
 - 😄 Pronouns: He/Him
