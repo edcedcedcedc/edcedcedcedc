@@ -41,7 +41,7 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
   
   ![tcp](tcp1.gif)<br>
 
-   Recursive website file downloader. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2)<br>
+   Recursive website file downloader. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-theory/data-structures/download)<br>
   
   ![tcp](downloader111.gif)<br>
 
