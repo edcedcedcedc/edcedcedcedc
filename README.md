@@ -22,8 +22,9 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
 ![image](screenshot2.png)
 
 🔭 I’m excited to have been selected for **GSoC 2025**! I’m also training to reach *Pupil* rank on Codeforces and studying full-time at OSSU.  
-Currently, GSoC is my only source of support (yet to begin), so if you'd like to keep me caffeinated and coding — thank you ❤️
-
+Currently, GSoC is my only source of support (and it hasn’t started yet). If you'd like to keep me caffeinated and coding — thank you ❤️.
+I still have about two years left to complete OSSU, and I'm working hard to become self-sufficient soon. 
+Your support helps bridge that gap while I build skills, contribute to open source, and grow into a full-time software engineer.
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
 
 🌱 I’m learning four courses concurrently:  
