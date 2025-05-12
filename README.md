@@ -21,17 +21,26 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
 
 ![image](screenshot2.png)
 
+🔭 I’m excited to have been selected for **GSoC 2025**! I’m also training to reach *Pupil* rank on Codeforces and studying full-time at OSSU.  
+Currently, GSoC is my only source of support (yet to begin), so if you'd like to keep me caffeinated and coding — thank you ❤️
 
+[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
 
-- 🔭 Right now I am mainly getting ready for GSOC-2025, trying to advance to pupil @codeforces, and studying at ossu.
-- 🌱 I’m learning four courses concurrently at Open Source Society University, Math For CS, Data Structures, Fundamentals of Physics I, Introduction to Probability
-- 👯 I’m open to collaborating on open-source projects.
-- 💬 Ask me about math, cs, functional programming, object-oriented programming, client-server programming. 
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I love cats, pushing weights, video games, coffee, chocolate, and being around positive and motivated people!
+🌱 I’m learning four courses concurrently:  
+• Math for CS  
+• Data Structures  
+• Fundamentals of Physics I  
+• Introduction to Probability
+
+👯 I’m open to collaborating on open-source projects.  
+💬 Ask me about math, computer science, functional or object-oriented programming, and client-server systems.  
+😄 Pronouns: He/Him  
+⚡ Fun facts: I love cats, lifting weights, video games, coffee, chocolate, and surrounding myself with positive, driven people!
+
 
   This is probably my favourite cat picture on the internet!<br>
   ![image](cs50cat.png)<br>
+
   ## A selection of my academic and personal projects
   A 3D object(cube) written in C++ and SDL3, projected into 2D and rotated using transformation matrices. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
 
