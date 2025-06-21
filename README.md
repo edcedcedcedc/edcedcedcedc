@@ -19,7 +19,7 @@ Software engineer with three years of experience, currently in my second year at
 
 Directed acyclic graph of my computer science curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
-![image](screenshot2.png)
+![image](test123.png)
 
 🔭 I’m excited to have been selected for **GSoC 2025**! I’m also training to reach *Pupil* rank on Codeforces and studying full-time at OSSU.  
 Currently, GSoC is my only source of support (and it hasn’t started yet). If you'd like to keep me caffeinated and coding - thank you ❤️.
