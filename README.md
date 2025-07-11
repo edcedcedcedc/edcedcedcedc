@@ -26,7 +26,7 @@ Currently, GSoC is my only source of support (and it hasn’t started yet). If y
 I still have about two years left to complete OSSU, and I'm working hard to become self-sufficient soon.Your support helps bridge that gap while I build skills, contribute to open source, and grow into a full-time software engineer.<br>
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
 
-🌱 I’m learning four courses concurrently:  
+🌱 I’m studying three courses concurrently:  
 • Math for CS  
 • Data Structures  
 • Introduction to Probability
