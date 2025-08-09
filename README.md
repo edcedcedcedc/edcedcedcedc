@@ -19,7 +19,7 @@ Software engineer, currently in my second year of the Open Source Society Univer
 
 Directed acyclic graph of my computer science curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
-![image](Screenshot%202025-07-12%20013433.png)
+![image](dag090825.png)
 
 🔭 I’m excited to have been selected for [**GSoC 2025**](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) and study full-time at OSSU. Currently GSoC is my only source of support.
 I still have about two years left to complete OSSU, and I'm working hard to become self-sufficient soon. Your support helps bridge that gap while I build skills, contribute to open source, and grow into a full-time software engineer. If you'd like to keep me caffeinated and coding - thank you ❤️. <br>
