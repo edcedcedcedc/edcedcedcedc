@@ -26,7 +26,7 @@ I still have about two years left to complete OSSU, and I'm working hard to beco
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
 
 🌱 I’m studying two courses concurrently:  
-• Introduction to Probability
+• Introduction to Probability <br>
 • Computer Systems A Programmer's Perspective 
 
 👯 I’m open to collaborating on open-source projects.  
