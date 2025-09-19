@@ -25,9 +25,10 @@ Directed acyclic graph of my computer science curriculum progress, vertices in y
 I still have about two years left to complete OSSU, and I'm working hard to become self-sufficient soon. Your support helps bridge that gap while I build skills, contribute to open source, and grow into a full-time software engineer. If you'd like to keep me caffeinated and coding - thank you ❤️. <br>
 [![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
 
-🌱 I’m studying two courses concurrently:  
+🌱 I’m studying three courses concurrently:  
 • Introduction to Probability <br>
-• Computer Systems A Programmer's Perspective 
+• Computer Systems A Programmer's Perspective <br>
+• Foundation of computer security
 
 👯 I’m open to collaborating on open-source projects.  
 💬 Ask me about math, computer science, functional or object-oriented programming, and client-server systems.  
