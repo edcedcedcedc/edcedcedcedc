@@ -20,11 +20,6 @@ I am a software engineer, currently in my third year at Open Source Society Univ
 Directed acyclic graph of my computer science curriculum progress, vertices in yellow mean that the course is either done or in progress.
 
 ![image](dag090825.png)
-
-🔭 I’m excited to have been selected for [**GSoC 2025**](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) and study full-time at OSSU. Currently GSoC is my only source of support.
-I still have about two years left to complete OSSU, and I'm working hard to become self-sufficient soon. Your support helps bridge that gap while I build skills, contribute to open source, and grow into a full-time software engineer. If you'd like to keep me caffeinated and coding - thank you ❤️. <br>
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/custom_images/yellow_img.png)](https://www.buymeacoffee.com/androranogajec)
-
 🌱 I’m studying three courses concurrently:  
 • Introduction to Probability <br>
 • Computer Systems A Programmer's Perspective <br>
@@ -35,7 +30,7 @@ I still have about two years left to complete OSSU, and I'm working hard to beco
 😄 Pronouns: He/Him  
 ⚡ Fun facts: I love cats, lifting weights, video games, coffee, chocolate, and surrounding myself with positive, driven people!
 
-  This is probably my favourite cat picture on the internet!<br>
+  This is my favourite cat picture on the internet!<br>
   ![image](cs50cat.png)<br>
 
   ## A selection of my academic and personal projects
