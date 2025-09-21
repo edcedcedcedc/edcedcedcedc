@@ -20,7 +20,7 @@ I am a software engineer, currently in my third year at Open Source Society Univ
 🌱 I’m studying three courses concurrently:  
 • Introduction to Probability <br>
 • Computer Systems A Programmer's Perspective <br>
-• Foundation of computer security
+• Foundations of Computer Security
 
 👯 I’m open to collaborating on open-source projects.  
 💬 Ask me about math, computer science, functional or object-oriented programming, and client-server systems.  
