@@ -17,9 +17,6 @@ Here are some ideas to get you started:
 
 I am a software engineer, currently in my third year at Open Source Society University pursuing Open Education in Computer Science, and a Google Summer of Code 2025 alumnus. I enjoy competitive programming, client-server programming, functional programming, object-oriented programming, event-driven programming, and mathematics. I have a partial interest in game development and a strong foundation in Linux systems, which I use almost daily. I work with Python every other day and have professional experience with JavaScript/TypeScript. I have also completed academic projects in Java, C++, and a bit of Bash. I learn significantly by reading and analyzing others’ code, always striving to improve by imitating and adapting different approaches. I also contribute to open-source projects and open PRs, actively collaborating with developers to improve software, fix issues, and enhance functionality.
 
-Directed acyclic graph of my computer science curriculum progress, vertices in yellow mean that the course is either done or in progress.
-
-![image](dag090825.png)
 🌱 I’m studying three courses concurrently:  
 • Introduction to Probability <br>
 • Computer Systems A Programmer's Perspective <br>
