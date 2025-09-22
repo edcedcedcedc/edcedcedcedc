@@ -39,7 +39,7 @@ I am a software engineer, currently in my third year at Open Source Society Univ
   
   ![tcp](tcp1.gif)<br>
 
-   Recursive website file downloader in Python. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-theory/data-structures/projects/download)<br>
+   Recursive website file downloader in Python. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-theory/data-structures/download)<br>
   
   ![tcp](downloader111.gif)<br>
 
