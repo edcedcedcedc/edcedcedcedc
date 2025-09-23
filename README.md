@@ -30,6 +30,9 @@ I am a software engineer, currently in my third year at Open Source Society Univ
   This is my favourite cat picture on the internet!<br>
   ![image](cs50cat.png)<br>
 
+  Current cs curriculum progress at ossu!<br>
+ ![image](dag.png)<br>
+
   ## A selection of my academic and personal projects
   A 3D object(cube) written in C++ and SDL3, projected into 2D and rotated using transformation matrices. [Source Code](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube)
 
