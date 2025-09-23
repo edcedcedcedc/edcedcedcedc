@@ -17,20 +17,17 @@ Here are some ideas to get you started:
 
 I am a software engineer, currently in my third year at Open Source Society University pursuing Open Education in Computer Science, and a Google Summer of Code 2025 alumnus. I enjoy competitive programming, client-server programming, functional programming, object-oriented programming, event-driven programming, and mathematics. I have a partial interest in game development and a strong foundation in Linux systems, which I use almost daily. I work with Python every other day and have professional experience with JavaScript/TypeScript. I have also completed academic projects in Java, C++, and a bit of Bash. I learn significantly by reading and analyzing others’ code, always striving to improve by imitating and adapting different approaches. I also contribute to open-source projects and open PRs, actively collaborating with developers to improve software, fix issues, and enhance functionality.
 
-🌱 I’m studying three courses concurrently:  
-• Introduction to Probability <br>
-• Computer Systems A Programmer's Perspective <br>
-• Foundations of Computer Security
+🌱 I’m currently learning three courses concurrently, Introduction to Probability, Computer Systems A Programmer's Perspective and Foundations of Computer Security.<br>
+🔭 I’m currently a part time involved software engineer for [Ruqola](https://github.com/KDE/ruqola) where I help finishing E2EE using C++/QT6/KF6.<br>
+👯 I’m open to collaborating on open-source projects.<br>
+💬 Ask me about math, computer science, functional or object-oriented programming, and client-server systems.<br>  
+😄 Pronouns: He/Him.<br>
+⚡ Fun facts: I love cats, since recently dogs, lifting weights, video games, coffee, chocolate, and surrounding myself with positive, driven people!
 
-👯 I’m open to collaborating on open-source projects.  
-💬 Ask me about math, computer science, functional or object-oriented programming, and client-server systems.  
-😄 Pronouns: He/Him  
-⚡ Fun facts: I love cats, lifting weights, video games, coffee, chocolate, and surrounding myself with positive, driven people!
-
-  This is my favourite cat picture on the internet!<br>
+  This is probably my favourite cat picture on the internet!<br>
   ![image](cs50cat.png)<br>
 
-  Current cs curriculum progress at ossu!<br>
+  A graph showing my current progress at ossu!<br>
  ![image](dag.png)<br>
 
   ## A selection of my academic and personal projects
