@@ -33,7 +33,7 @@ A graph showing my current [progress](https://github.com/edcedcedcedc/computer-s
 
 ## Selected projects
 
-- 3D spinning cube in C++/SDL3 ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube))  
+- Spinning cube in C++/SDL3 ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube))  
   ![spinningcube](spinningcube.gif)
 
 - TCP/IP console client-server app in Python ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2))  
