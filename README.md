@@ -21,9 +21,7 @@ I am a software engineer, currently in my third year at [Open Source Society Uni
 - 🔭 Part time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
 - 👯 Open to collaborating on open-source projects  
 - 🚀 [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus  
-- 💬 Ask me about computer science, math, game development, or debugging - the Rocket.Chat team calls me a “professional bug researcher” 😄
-- 😄 Pronouns: He/Him
-- ⚡ Fun facts: I love cats, dogs, lifting, video games, coffee, chocolate, and positive people
+- 💬 Ask me about computer science, math, game development, or debugging - the Rocket.Chat team dubbed me a “professional bug researcher” at the end of GSoC 2025 😄
 
 This is probably my favourite cat picture on the internet!  
 ![cat](cs50cat.png)
@@ -43,8 +41,3 @@ A graph showing my current [progress](https://github.com/edcedcedcedc/computer-s
 
 - Recursive website downloader in Python ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-theory/data-structures/download))  
   ![downloader](downloader111.gif)
-
----
-
-📫 Reach me on [LinkedIn](https://www.linkedin.com/in/androranogajec/) or [email](mailto:ranogaet@gmail.com)
-
