@@ -28,7 +28,7 @@ I am a software engineer, currently in my third year at [Open Source Society Uni
   This is probably my favourite cat picture on the internet!<br>
   ![image](cs50cat.png)<br>
 
-  A graph showing my current [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu) at ossu!<br>
+  A graph showing my current [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu)!<br>
  ![image](dag1.png)<br>
 
   ## A selection of my academic and personal projects
