@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## Hi there 👋  
 
-I am a software engineer, currently in my third year at [Open Source Society University](https://cs.ossu.dev/) pursuing Open Education in Computer Science, and a Google Summer of Code 2025 alumnus. I enjoy competitive programming, client-server programming, functional programming, object-oriented programming, event-driven programming, and mathematics. I have a partial interest in game development and a strong foundation in Linux systems, which I use almost daily. I work with Python every other day and have professional experience with JavaScript/TypeScript. I have also completed academic projects in Java, C++, and a bit of Bash. I learn significantly by reading and analyzing others’ code, always striving to improve by imitating and adapting different approaches. I also contribute to open-source projects and open PRs, actively collaborating with developers to improve software, fix issues, and enhance functionality.
+I’m a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science with a specialization in Game Development using Unreal Engine and C++. I’m a Google Summer of Code 2025 alumnus. I enjoy competitive programming, functional and object-oriented programming, client-server development, and mathematics, with strong experience in Python, JavaScript/TypeScript, Java, C++, and Bash. I actively contribute to open-source projects, learning by reading and adapting others’ code, and continuously improving my skills.
 
-- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security  
+- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, Foundations of Computer Security, and specializing in Game Development with Unreal Engine and C++
 - 🔭 Part time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
 - 👯 Open to collaborating on open-source projects  
 - 🚀 [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus  
