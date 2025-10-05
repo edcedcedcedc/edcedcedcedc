@@ -12,21 +12,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Hi there 👋  
 
-## Hi there 👋  
+I'm a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, currently specializing in **Game Development with Unreal Engine and C++**.  
 
-I’m a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science with a specialization in Game Development using Unreal Engine and C++. I’m a Google Summer of Code 2025 alumnus. I enjoy competitive programming, functional and object-oriented programming, client-server development, and mathematics, with strong experience in Python, JavaScript/TypeScript, Java, C++, and Bash. I actively contribute to open-source projects, learning by reading and adapting others’ code, and continuously improving my skills.
-
-- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, Foundations of Computer Security, and specializing in Game Development with Unreal Engine and C++
-- 🔭 Part time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
-- 👯 Open to collaborating on open-source projects  
-- 🚀 [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus  
-- 💬 Ask me about computer science, math, game development, or debugging - the Rocket.Chat team dubbed me a “professional bug researcher” at the end of GSoC 2025 😄
+- 🌱 Currently learning **Probability for Computer Scientists**, **Introduction to Computer Systems**, and **Foundations of Computer Security**, while deepening my focus on **Unreal Engine game development**  
+- 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on **E2EE (C++/Qt6/KF6)**  
+- 👯 Open to collaborating on **open-source projects**  
+- 🚀 [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) **alumnus**  
+- 💬 Ask me about **computer science, math, game development, or debugging** — the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
 
 This is probably my favourite cat picture on the internet!  
 ![cat](cs50cat.png)
 
-A graph showing my current [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu)!
+A graph showing my [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu)!
 ![progress](dag1.png)
 
 ---
