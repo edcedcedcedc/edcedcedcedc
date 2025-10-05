@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋  
 
-I'm a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, currently specializing in **Game Development with Unreal Engine and C++**.  
+I'm a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, currently specializing in Game Development with Unreal Engine and C++.  
 
 - 🌱 Currently learning **Probability for Computer Scientists**, **Introduction to Computer Systems**, and **Foundations of Computer Security**, while deepening my focus on **Unreal Engine game development**  
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on **E2EE (C++/Qt6/KF6)**  
