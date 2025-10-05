@@ -14,13 +14,11 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋  
 
-I'm a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, currently specializing in Game Development with Unreal Engine and C++.  
+I’m a software engineer in my third year at [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science with a specialization in Game Development using Unreal Engine and C++, and a [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus.
 
-- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus on Unreal Engine game development  
+- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus on game development and Unreal Engine 
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
-- 👯 Open to collaborating on open-source projects  
-- 🚀 [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus 
-- 💬 Ask me about computer science, math, game development, or debugging — the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
+- 💬 Ask me about game development, computer science, math,  or debugging — the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
 
 This is probably my favourite cat picture on the internet!  
 ![cat](cs50cat.png)
