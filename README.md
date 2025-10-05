@@ -18,7 +18,7 @@ I’m a software engineer in my third year at [Open Source Society University](h
 
 - 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus on game development and Unreal Engine 
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
-- 💬 Ask me about game development, computer science, math,  or debugging — the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
+- 💬 Ask me about game development, computer science, math,  or debugging - the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
 
 This is probably my favourite cat picture on the internet!  
 ![cat](cs50cat.png)
