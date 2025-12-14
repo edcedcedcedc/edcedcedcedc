@@ -24,7 +24,7 @@ This is probably my favourite cat picture on the internet!
 ![cat](cs50cat.png)
 
 A graph showing my [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu)!
-![progress](Untitled-2025-10-28-1434.png)
+![progress](Untitled-2025-10-28-1434new.png)
 
 - Spinning cube in C++/SDL3 ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube))  
   ![spinningcube](spinningcube.gif)
