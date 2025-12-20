@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 -->
 ### Hi there 👋  
 
-I’m a Software Engineer in my third year at the [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, and a [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus.
+I’m a software engineer and a general-purpose programmer with experience in web and game development. I’m stack-agnostic, highly flexible, and currently in my third year at the [Open Source Society University](https://cs.ossu.dev/), pursuing Open Education in Computer Science, and a [Google Summer of Code 2025](https://summerofcode.withgoogle.com/programs/2025/projects/RTuXxB1k) alumnus, where I helped build an end-to-end encryption system.
+
+
 
 - 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus on game development and Unreal Engine 
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
