@@ -18,7 +18,7 @@ I’m a software engineer and a general-purpose programmer with experience in we
 
 
 
-- 🌱 Currently learning Probability for Computer Scientists, Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus on game development and Unreal Engine 
+- 🌱 Introduction to Computer Systems, and Foundations of Computer Security, while deepening my focus in game development and Unreal Engine 
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
 - 💬 Ask me about game development, computer science, math,  or debugging - the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
 
@@ -26,7 +26,7 @@ This is probably my favourite cat picture on the internet!
 ![cat](cs50cat.png)
 
 A graph showing my [progress](https://github.com/edcedcedcedc/computer-science-curriculum-ossu)!
-![progress](Untitled-2025-10-28-1434new.png)
+![progress](new.png)
 
 - Spinning cube in C++/SDL3 ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube))  
   ![spinningcube](spinningcube.gif)
