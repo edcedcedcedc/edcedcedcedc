@@ -4,7 +4,7 @@ I’m a software engineer and a general-purpose programmer with experience in we
 
 
 
-- 🌱 Real-Time Systems & Gameplay Programming, Computer Networking, System Design, Introduction to Databases
+- 🌱 Real-Time Systems & Gameplay Programming, Computer Networking, Introduction to Databases
 - 🔭 Part-time volunteer software engineer for [Ruqola](https://github.com/KDE/ruqola), working on E2EE (C++/Qt6/KF6)  
 - 💬 Ask me about game development, computer science, math,  or debugging - the Rocket.Chat team once dubbed me a *“professional bug researcher”* 😄 
 
