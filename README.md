@@ -15,9 +15,3 @@ A graph showing my [progress](https://github.com/edcedcedcedc/computer-science-c
 
 - Spinning cube in C++/SDL3 ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/advanced-cs/advanced-math/linear-algebra/spinningCube))  
   ![spinningcube](spinningcube.gif)
-
-- TCP/IP console client-server app in Python ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-programming/sicp/projects/project2))  
-  ![tcp](tcp1.gif)
-
-- Recursive website downloader in Python ([source](https://github.com/edcedcedcedc/computer-science-curriculum-ossu/tree/master/core-cs/core-theory/data-structures/download))  
-  ![downloader](downloader111.gif)
